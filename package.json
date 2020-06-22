@@ -1,0 +1,23 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random starwars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaygenius123/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "starwars"
+  ],
+  "author": "Vijayaraghavan Sundararaman <vijaygenius123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijaygenius123/starwars-names/issues"
+  },
+  "homepage": "https://github.com/vijaygenius123/starwars-names#readme"
+}
